@@ -40,7 +40,10 @@ Swagger used for API Documentation:
 
 ## API Testing 
 - postman used for API Testing below is video for API Testing
-https://github.com/user-attachments/assets/ee9bd9a3-2f97-4269-8757-fa54e44e826d
+
+
+https://github.com/user-attachments/assets/266fb3f5-fd2c-4dd0-9713-9294b5a031b0
+
 
 ## Database Structure
 - **Users Table**: Stores user details.
@@ -48,14 +51,14 @@ https://github.com/user-attachments/assets/ee9bd9a3-2f97-4269-8757-fa54e44e826d
 - **HeartRate Table**: Logs heart rate data for each patient.
 
 # Spring Boot Application Configuration
-spring.application.name=patientheart
-spring.datasource.url=jdbc:h2:mem:testdb
-spring.datasource.driverClassName=org.h2.Driver
-spring.datasource.username=sa
-spring.datasource.password=password
-spring.jpa.database-platform=org.hibernate.dialect.H2Dialect
-spring.h2.console.enabled=true
-spring.jpa.hibernate.ddl-auto=update
+- **spring.application.name=patientheart
+- **spring.datasource.url=jdbc:h2:mem:testdb
+- **spring.datasource.driverClassName=org.h2.Driver
+- **spring.datasource.username=sa
+- **spring.datasource.password=password
+- **spring.jpa.database-platform=org.hibernate.dialect.H2Dialect
+- **spring.h2.console.enabled=true
+- **spring.jpa.hibernate.ddl-auto=update
 
 
 
